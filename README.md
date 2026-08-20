@@ -124,10 +124,12 @@ At this point in my journey, these are the programming languages I’m most enga
 </div>
 
 <h2>github_statistics</h2>
+<!--
 <div align="center">
 <a href="https://github.com/pullsec">
 <img align="center" src="https://streak-stats.demolab.com?user=pullsec&hide_border=true&background=EBEBEB00&stroke=5acbe9&ring=5acbe9&fire=EBEBEB&currStreakNum=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&sideNums=5acbe9">
+-->
 
-<img align="center" alt="PullSec's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=pullsec&bg_color=RRGGBBAA&title_color=5acbe9&color=5acbe9&line=5acbe9&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
+<img align="center" alt="PullSec's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=pullsec&bg_color=RRGGBBAA&title_color=5acbe9&color=5acbe9&line=5acbe9&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
 </a>
 </div>
