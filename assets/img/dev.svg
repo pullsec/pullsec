@@ -136,10 +136,10 @@
 
         <div>
           <span class="progress">
-<span style="background-color: #3572A5; width: 30%;" class="progress-item"></span> <!-- Python -->
-<span style="background-color: #555555; width: 20%;" class="progress-item"></span> <!-- C -->
+<span style="background-color: #3572A5; width: 20%;" class="progress-item"></span> <!-- Python -->
+<span style="background-color: #555555; width: 10%;" class="progress-item"></span> <!-- C -->
 <span style="background-color: #6E4C13; width: 10%;" class="progress-item"></span> <!-- Assembly -->
-<span style="background-color: #89e051; width: 10%;" class="progress-item"></span> <!-- Shell -->
+<span style="background-color: #89e051; width: 30%;" class="progress-item"></span> <!-- Shell -->
 <span style="background-color: #012456; width: 8%;" class="progress-item"></span> <!-- PowerShell -->
 <span style="background-color: #f1e05a; width: 7%;" class="progress-item"></span> <!-- JavaScript -->
 <span style="background-color: #00ADD8; width: 6%;" class="progress-item"></span> <!-- Go -->
@@ -170,7 +170,7 @@
     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
   </svg>
   <span class="lang">Python</span>
-  <span class="percent">30%</span>
+  <span class="percent">20%</span>
 </li>
 
 <li style="animation-delay: 150ms;">
@@ -179,7 +179,7 @@
     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
   </svg>
   <span class="lang">C</span>
-  <span class="percent">20%</span>
+  <span class="percent">10%</span>
 </li>
 
 <li style="animation-delay: 300ms;">
@@ -197,7 +197,7 @@
     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
   </svg>
   <span class="lang">Shell</span>
-  <span class="percent">10%</span>
+  <span class="percent">30%</span>
 </li>
 
 <li style="animation-delay: 600ms;">
